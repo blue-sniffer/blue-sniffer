@@ -36,7 +36,7 @@ What ties it together is a practical, problem-solving mindset: understand how a 
 
 <div align="center">
 
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/tech-stack.svg" alt="Tech stack: Languages: Python, TypeScript, JavaScript, SQL, PL/SQL; Web &amp; Backend: React, Node.js, Django REST; Databases: PostgreSQL, Oracle, MySQL, MongoDB; Data &amp; AI: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Airflow, Power BI, Grafana; Infrastructure: Docker, Linux, Proxmox, OPNsense; Cybersecurity: Kali Linux, Burp Suite, Metasploit, Nmap; Dev Tools: Git, GitHub, GitHub Actions" width="100%" /></a>
+<a href=""><img src="assets/tech-stack.svg" alt="Tech stack: Languages: Python, TypeScript, JavaScript, SQL, PL/SQL; Web &amp; Backend: React, Node.js, Django REST; Databases: PostgreSQL, Oracle, MySQL, MongoDB; Data &amp; AI: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Airflow, Power BI, Grafana; Infrastructure: Docker, Linux, Proxmox, OPNsense; Cybersecurity: Kali Linux, Burp Suite, Metasploit, Nmap; Dev Tools: Git, GitHub, GitHub Actions" width="100%" /></a>
 
 </div>
 
