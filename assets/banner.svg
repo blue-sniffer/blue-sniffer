@@ -36,7 +36,7 @@
 
   <!-- name + role -->
   <text x="40" y="106" font-size="44" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Rao Muhammad Mueez</text>
-  <text x="40" y="136" font-size="16" fill="#8b949e" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Data &amp; AI Engineer  ·  Python  ·  Automation  ·  Full-Stack</text>
+  <text x="40" y="136" font-size="16" fill="#8b949e" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Data &amp; AI Engineer  ·  Python  ·  PL/SQL  ·  Automation  ·  Full-Stack</text>
   <rect x="40" y="152" width="120" height="3" rx="1.5" fill="url(#accent)"/>
 
   <!-- terminal prompt -->
