@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="Database Systems: PostgreSQL, Oracle, MySQL, MongoDB">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3fb950"/>
+      <stop offset="1" stop-color="#3fb950" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="176" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="176" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="175" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#3fb950" fill-opacity="0.14" stroke="#3fb950" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#56d364" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="12" cy="5.5" rx="8" ry="3"/><path d="M4 5.5v13c0 1.7 3.6 3 8 3s8-1.3 8-3v-13"/><path d="M4 12c0 1.7 3.6 3 8 3s8-1.3 8-3"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Database Systems</text>
+
+  <rect x="24" y="84" width="103" height="30" rx="15" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.35"/>
+  <text x="75.5" y="104" font-size="13" font-weight="600" fill="#56d364" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">PostgreSQL</text>
+  <rect x="135" y="84" width="68" height="30" rx="15" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.35"/>
+  <text x="169.0" y="104" font-size="13" font-weight="600" fill="#56d364" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Oracle</text>
+  <rect x="211" y="84" width="73" height="30" rx="15" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.35"/>
+  <text x="247.5" y="104" font-size="13" font-weight="600" fill="#56d364" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">MySQL</text>
+  <rect x="292" y="84" width="89" height="30" rx="15" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-opacity="0.35"/>
+  <text x="336.5" y="104" font-size="13" font-weight="600" fill="#56d364" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">MongoDB</text>
+</svg>

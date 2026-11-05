@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="Dev Tools &amp; CI/CD: Git, GitHub, GitHub Actions, CI/CD, VS Code">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bc8cff"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="176" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="176" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="175" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#bc8cff" fill-opacity="0.14" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#d2a8ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Dev Tools &amp; CI/CD</text>
+
+  <rect x="24" y="84" width="46" height="30" rx="15" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <text x="47.0" y="104" font-size="13" font-weight="600" fill="#d2a8ff" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Git</text>
+  <rect x="78" y="84" width="71" height="30" rx="15" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <text x="113.5" y="104" font-size="13" font-weight="600" fill="#d2a8ff" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">GitHub</text>
+  <rect x="157" y="84" width="122" height="30" rx="15" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <text x="218.0" y="104" font-size="13" font-weight="600" fill="#d2a8ff" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">GitHub Actions</text>
+  <rect x="287" y="84" width="63" height="30" rx="15" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <text x="318.5" y="104" font-size="13" font-weight="600" fill="#d2a8ff" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">CI/CD</text>
+  <rect x="24" y="122" width="81" height="30" rx="15" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-opacity="0.35"/>
+  <text x="64.5" y="142" font-size="13" font-weight="600" fill="#d2a8ff" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">VS Code</text>
+</svg>

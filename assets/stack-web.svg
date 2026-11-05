@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="Web &amp; Backend: HTML5, CSS3, React.js, Vue.js, Django REST, Flask, Node.js, Elixir Phoenix">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#a78bfa" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="176" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="176" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="175" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#c4b5fd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><line x1="3" y1="12" x2="21" y2="12"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Web &amp; Backend</text>
+
+  <rect x="24" y="84" width="71" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="59.5" y="104" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">HTML5</text>
+  <rect x="103" y="84" width="62" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="134.0" y="104" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">CSS3</text>
+  <rect x="173" y="84" width="78" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="212.0" y="104" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">React.js</text>
+  <rect x="259" y="84" width="66" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="292.0" y="104" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Vue.js</text>
+  <rect x="24" y="122" width="110" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="79.0" y="142" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Django REST</text>
+  <rect x="142" y="122" width="61" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="172.5" y="142" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Flask</text>
+  <rect x="211" y="122" width="75" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="248.5" y="142" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Node.js</text>
+  <rect x="294" y="122" width="114" height="30" rx="15" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+  <text x="351.0" y="142" font-size="13" font-weight="600" fill="#c4b5fd" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Elixir Phoenix</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="Data Science &amp; ML: TensorFlow, Keras, PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0883e"/>
+      <stop offset="1" stop-color="#f0883e" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="176" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="176" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="175" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#f0883e" fill-opacity="0.14" stroke="#f0883e" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#ffa657" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="6" y1="20" x2="6" y2="11"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="18" y1="20" x2="18" y2="14"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Data Science &amp; ML</text>
+
+  <rect x="24" y="84" width="100" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="74.0" y="104" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">TensorFlow</text>
+  <rect x="132" y="84" width="64" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="164.0" y="104" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Keras</text>
+  <rect x="204" y="84" width="79" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="243.5" y="104" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">PyTorch</text>
+  <rect x="291" y="84" width="74" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="328.0" y="104" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Pandas</text>
+  <rect x="24" y="122" width="73" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="60.5" y="142" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">NumPy</text>
+  <rect x="105" y="122" width="98" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="154.0" y="142" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Scikit-learn</text>
+  <rect x="211" y="122" width="89" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="255.5" y="142" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Matplotlib</text>
+  <rect x="308" y="122" width="80" height="30" rx="15" fill="#f0883e" fill-opacity="0.12" stroke="#f0883e" stroke-opacity="0.35"/>
+  <text x="348.0" y="142" font-size="13" font-weight="600" fill="#ffa657" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Seaborn</text>
+</svg>

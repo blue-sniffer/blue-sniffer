@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="214" viewBox="0 0 440 214" role="img" aria-label="Cybersecurity Tools: Kali Linux, Burp Suite, Metasploit, Nessus, Nmap, John the Ripper, Hydra, Netcat, Maltego">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f85149"/>
+      <stop offset="1" stop-color="#f85149" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="214" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="214" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="213" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#f85149" fill-opacity="0.14" stroke="#f85149" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#ff7b72" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 3l8 3v6c0 4.5-3.2 8-8 9-4.8-1-8-4.5-8-9V6z"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Cybersecurity Tools</text>
+
+  <rect x="24" y="84" width="90" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="69.0" y="104" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Kali Linux</text>
+  <rect x="122" y="84" width="94" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="169.0" y="104" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Burp Suite</text>
+  <rect x="224" y="84" width="92" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="270.0" y="104" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Metasploit</text>
+  <rect x="324" y="84" width="74" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="361.0" y="104" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Nessus</text>
+  <rect x="24" y="122" width="64" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="56.0" y="142" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Nmap</text>
+  <rect x="96" y="122" width="127" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="159.5" y="142" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">John the Ripper</text>
+  <rect x="231" y="122" width="65" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="263.5" y="142" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Hydra</text>
+  <rect x="304" y="122" width="68" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="338.0" y="142" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Netcat</text>
+  <rect x="24" y="160" width="77" height="30" rx="15" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-opacity="0.35"/>
+  <text x="62.5" y="180" font-size="13" font-weight="600" fill="#ff7b72" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Maltego</text>
+</svg>

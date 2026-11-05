@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="214" viewBox="0 0 440 214" role="img" aria-label="Data Engineering &amp; BI: Apache Airflow, Power BI, Grafana, Streamlit, Plotly, Dash, Oracle Apex">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#39c5cf"/>
+      <stop offset="1" stop-color="#39c5cf" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="214" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="214" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="213" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#39c5cf" fill-opacity="0.14" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#76e3ea" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="5" cy="6" r="2.5"/><circle cx="19" cy="6" r="2.5"/><circle cx="12" cy="18" r="2.5"/><path d="M7.5 6h9"/><path d="M6.2 8.2l4.6 7.6"/><path d="M17.8 8.2l-4.6 7.6"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Data Engineering &amp; BI</text>
+
+  <rect x="24" y="84" width="122" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="85.0" y="104" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Apache Airflow</text>
+  <rect x="154" y="84" width="84" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="196.0" y="104" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Power BI</text>
+  <rect x="246" y="84" width="77" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="284.5" y="104" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Grafana</text>
+  <rect x="331" y="84" width="84" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="373.0" y="104" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Streamlit</text>
+  <rect x="24" y="122" width="63" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="55.5" y="142" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Plotly</text>
+  <rect x="95" y="122" width="60" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="125.0" y="142" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Dash</text>
+  <rect x="163" y="122" width="103" height="30" rx="15" fill="#39c5cf" fill-opacity="0.12" stroke="#39c5cf" stroke-opacity="0.35"/>
+  <text x="214.5" y="142" font-size="13" font-weight="600" fill="#76e3ea" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Oracle Apex</text>
+</svg>

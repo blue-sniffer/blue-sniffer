@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="176" viewBox="0 0 440 176" role="img" aria-label="Infrastructure &amp; Virtualization: Proxmox, OPNsense, Docker, Linux">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161b22"/>
+      <stop offset="1" stop-color="#1c2230"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d29922"/>
+      <stop offset="1" stop-color="#d29922" stop-opacity="0.25"/>
+    </linearGradient>
+    <clipPath id="shape"><rect width="440" height="176" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="440" height="176" fill="url(#bg)"/>
+    <rect width="440" height="4" fill="url(#bar)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="439" height="175" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- icon tile -->
+  <rect x="24" y="26" width="40" height="40" rx="10" fill="#d29922" fill-opacity="0.14" stroke="#d29922" stroke-opacity="0.35"/>
+  <g transform="translate(33 35) scale(0.9)" fill="none" stroke="#e3b341" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="3" y="4" width="18" height="7" rx="2"/><rect x="3" y="13" width="18" height="7" rx="2"/><line x1="7" y1="7.5" x2="7.01" y2="7.5"/><line x1="7" y1="16.5" x2="7.01" y2="16.5"/>
+  </g>
+
+  <text x="78" y="52" font-size="17" font-weight="700" fill="#e6edf3" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Infrastructure &amp; Virtualization</text>
+
+  <rect x="24" y="84" width="84" height="30" rx="15" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-opacity="0.35"/>
+  <text x="66.0" y="104" font-size="13" font-weight="600" fill="#e3b341" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Proxmox</text>
+  <rect x="116" y="84" width="93" height="30" rx="15" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-opacity="0.35"/>
+  <text x="162.5" y="104" font-size="13" font-weight="600" fill="#e3b341" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">OPNsense</text>
+  <rect x="217" y="84" width="72" height="30" rx="15" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-opacity="0.35"/>
+  <text x="253.0" y="104" font-size="13" font-weight="600" fill="#e3b341" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Docker</text>
+  <rect x="297" y="84" width="63" height="30" rx="15" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-opacity="0.35"/>
+  <text x="328.5" y="104" font-size="13" font-weight="600" fill="#e3b341" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif">Linux</text>
+</svg>

@@ -36,13 +36,17 @@ What ties it together is a practical, problem-solving mindset: understand how a 
 
 <div align="center">
 
-| | |
-|:--|:--|
-| **Languages** | [![Python](https://img.shields.io/badge/Python-21262d?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-21262d?style=flat-square&logo=oracle&logoColor=white)](https://www.oracle.com/database/technologies/appdev/plsql.html) [![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript) |
-| **Web** | [![React](https://img.shields.io/badge/React-21262d?style=flat-square&logo=react&logoColor=white)](https://react.dev) [![Django](https://img.shields.io/badge/Django_REST-21262d?style=flat-square&logo=django&logoColor=white)](https://www.django-rest-framework.org) [![Node.js](https://img.shields.io/badge/Node.js-21262d?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org) [![HTML5](https://img.shields.io/badge/HTML5-21262d?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-21262d?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) |
-| **Data & Automation** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21262d?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org) [![Airflow](https://img.shields.io/badge/Apache_Airflow-21262d?style=flat-square&logo=apacheairflow&logoColor=white)](https://airflow.apache.org) [![Power BI](https://img.shields.io/badge/Power_BI-21262d?style=flat-square&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com) |
-| **Infra & Tools** | [![Docker](https://img.shields.io/badge/Docker-21262d?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org) [![Git](https://img.shields.io/badge/Git-21262d?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-21262d?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) |
-| **Security** | [![TryHackMe](https://img.shields.io/badge/TryHackMe-21262d?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ezio.316) [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-21262d?style=flat-square&logo=hackthebox&logoColor=white)](https://www.hackthebox.com) |
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-languages.svg" alt="Programming Languages: Python, TypeScript, JavaScript, C++, SQL, PL/SQL" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-web.svg" alt="Web &amp; Backend: HTML5, CSS3, React.js, Vue.js, Django REST, Flask, Node.js, Elixir Phoenix" width="48%" /></a>
+<br/>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-databases.svg" alt="Database Systems: PostgreSQL, Oracle, MySQL, MongoDB" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-datascience.svg" alt="Data Science &amp; ML: TensorFlow, Keras, PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn" width="48%" /></a>
+<br/>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-dataeng.svg" alt="Data Engineering &amp; BI: Apache Airflow, Power BI, Grafana, Streamlit, Plotly, Dash, Oracle Apex" width="48%" /></a>
+<a href="https://tryhackme.com/p/Ezio.316"><img src="assets/stack-security.svg" alt="Cybersecurity Tools: Kali Linux, Burp Suite, Metasploit, Nessus, Nmap, John the Ripper, Hydra, Netcat, Maltego" width="48%" /></a>
+<br/>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-infra.svg" alt="Infrastructure &amp; Virtualization: Proxmox, OPNsense, Docker, Linux" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-tools.svg" alt="Dev Tools &amp; CI/CD: Git, GitHub, GitHub Actions, CI/CD, VS Code" width="48%" /></a>
 
 </div>
 
