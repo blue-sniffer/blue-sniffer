@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rao-muhammad-mueez/)
 [![Medium](https://img.shields.io/badge/Medium-21262d?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@raomueez0)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-21262d?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ezio.316)
-[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raomuhammadmueez@fgmail.com)
+[![Email](https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raomuhammadmueez@gmail.com)
 
 ![Open to work](https://img.shields.io/badge/OPEN_TO_WORK-12--month_alternance-238636?style=flat-square)
 ![Location](https://img.shields.io/badge/Paris-Île--de--France-21262d?style=flat-square)
@@ -36,17 +36,7 @@ What ties it together is a practical, problem-solving mindset: understand how a 
 
 <div align="center">
 
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-languages.svg" alt="Programming Languages: Python, TypeScript, JavaScript, C++, SQL, PL/SQL" width="48%" /></a>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-tools.svg" alt="Dev Tools &amp; CI/CD: Git, GitHub, GitHub Actions, CI/CD, VS Code" width="48%" /></a>
-<br/>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-databases.svg" alt="Database Systems: PostgreSQL, Oracle, MySQL, MongoDB" width="48%" /></a>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-infra.svg" alt="Infrastructure &amp; Virtualization: Proxmox, OPNsense, Docker, Linux" width="48%" /></a>
-<br/>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-web.svg" alt="Web &amp; Backend: HTML5, CSS3, React.js, Vue.js, Django REST, Flask, Node.js, Elixir Phoenix" width="48%" /></a>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-datascience.svg" alt="Data Science &amp; ML: TensorFlow, Keras, PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn" width="48%" /></a>
-<br/>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-dataeng.svg" alt="Data Engineering &amp; BI: Apache Airflow, Power BI, Grafana, Streamlit, Plotly, Dash, Oracle Apex" width="48%" /></a>
-<a href="https://tryhackme.com/p/Ezio.316"><img src="assets/stack-security.svg" alt="Cybersecurity Tools: Kali Linux, Burp Suite, Metasploit, Nessus, Nmap, John the Ripper, Hydra, Netcat, Maltego" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/tech-stack.svg" alt="Tech stack: Languages: Python, TypeScript, JavaScript, SQL, PL/SQL; Web &amp; Backend: React, Node.js, Django REST; Databases: PostgreSQL, Oracle, MySQL, MongoDB; Data &amp; AI: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Apache Airflow, Power BI, Grafana; Infrastructure: Docker, Linux, Proxmox, OPNsense; Cybersecurity: Kali Linux, Burp Suite, Metasploit, Nmap; Dev Tools: Git, GitHub, GitHub Actions" width="100%" /></a>
 
 </div>
 
