@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rao%20Muhammad%20Mueez&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20AI%20Engineer%20%7C%20Python%20%E2%80%A2%20Automation%20%7C%20Full-Stack&descAlignY=60&descSize=16" width="100%" />
 
 <a href="https://github.com/blue-sniffer">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Constant+in+a+sea+of+variables;Building+data+%26+AI+solutions+with+Python;Automating+the+boring+stuff;Epitech+MSc+International+%E2%80%94+Promo+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hey+I'm+Mueez;Building+data+%26+AI+solutions+with+Python;Automating+the+boring+stuff;Epitech+MSc+International+%E2%80%94+Promo+2027" alt="Typing SVG" />
 </a>
 
 <br/>
