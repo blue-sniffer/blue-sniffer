@@ -37,16 +37,16 @@ What ties it together is a practical, problem-solving mindset: understand how a 
 <div align="center">
 
 <a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-languages.svg" alt="Programming Languages: Python, TypeScript, JavaScript, C++, SQL, PL/SQL" width="48%" /></a>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-web.svg" alt="Web &amp; Backend: HTML5, CSS3, React.js, Vue.js, Django REST, Flask, Node.js, Elixir Phoenix" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-tools.svg" alt="Dev Tools &amp; CI/CD: Git, GitHub, GitHub Actions, CI/CD, VS Code" width="48%" /></a>
 <br/>
 <a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-databases.svg" alt="Database Systems: PostgreSQL, Oracle, MySQL, MongoDB" width="48%" /></a>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-infra.svg" alt="Infrastructure &amp; Virtualization: Proxmox, OPNsense, Docker, Linux" width="48%" /></a>
+<br/>
+<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-web.svg" alt="Web &amp; Backend: HTML5, CSS3, React.js, Vue.js, Django REST, Flask, Node.js, Elixir Phoenix" width="48%" /></a>
 <a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-datascience.svg" alt="Data Science &amp; ML: TensorFlow, Keras, PyTorch, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn" width="48%" /></a>
 <br/>
 <a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-dataeng.svg" alt="Data Engineering &amp; BI: Apache Airflow, Power BI, Grafana, Streamlit, Plotly, Dash, Oracle Apex" width="48%" /></a>
 <a href="https://tryhackme.com/p/Ezio.316"><img src="assets/stack-security.svg" alt="Cybersecurity Tools: Kali Linux, Burp Suite, Metasploit, Nessus, Nmap, John the Ripper, Hydra, Netcat, Maltego" width="48%" /></a>
-<br/>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-infra.svg" alt="Infrastructure &amp; Virtualization: Proxmox, OPNsense, Docker, Linux" width="48%" /></a>
-<a href="https://github.com/blue-sniffer?tab=repositories"><img src="assets/stack-tools.svg" alt="Dev Tools &amp; CI/CD: Git, GitHub, GitHub Actions, CI/CD, VS Code" width="48%" /></a>
 
 </div>
 
